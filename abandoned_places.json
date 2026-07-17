@@ -1,0 +1,163 @@
+[
+    {
+        "id": "37819374",
+        "name": "Бывший грузовой двор станции Москва-Товарная-Павелецкая",
+        "coordinates": {
+            "lat": 55.71658,
+            "lon": 37.6377543
+        },
+        "address": "Russia, Moscow, Moscow",
+        "categories": [
+            "заброшенный, неиспользуемый объект"
+        ]
+    },
+    {
+        "id": "1635511",
+        "name": "Территория заброшенной Городской клинической больницы № 4 г. Москвы",
+        "coordinates": {
+            "lat": 55.7144586,
+            "lon": 37.6302712
+        },
+        "address": "Russia, Moscow, Moscow",
+        "categories": [
+            "парк",
+            "заброшенный, неиспользуемый объект",
+            "архитектурный ансамбль/комплекс",
+            "объект культурного наследия регионального значения",
+            "огороженная территория"
+        ]
+    },
+    {
+        "id": "4611886",
+        "name": "Hexahedron abandoned pavilion",
+        "coordinates": {
+            "lat": 55.7284377,
+            "lon": 37.6040569
+        },
+        "address": "Russia, Moscow, Moscow",
+        "categories": [
+            "abandoned / shut down",
+            "Neoclassical (architecture)",
+            "1923_construction",
+            "constructivism",
+            "avant-garde",
+            "object of cultural heritage of regional importance (Russia)"
+        ]
+    },
+    {
+        "id": "33090710",
+        "name": "Заброшенная строительная площадка гостиничного комплекса с подземным паркингом",
+        "coordinates": {
+            "lat": 55.7296413,
+            "lon": 37.6491191
+        },
+        "address": "Russia, Moscow, Moscow",
+        "categories": [
+            "заброшенный, неиспользуемый объект",
+            "строительная площадка"
+        ]
+    },
+    {
+        "id": "18890709",
+        "name": "Заброшенный филиал Первой Образцовой типографии",
+        "coordinates": {
+            "lat": 55.7301194,
+            "lon": 37.6483505
+        },
+        "address": "Russia, Moscow, Moscow",
+        "categories": [
+            "заброшенный, неиспользуемый объект"
+        ]
+    },
+    {
+        "id": "38363167",
+        "name": "Бункер 703",
+        "coordinates": {
+            "lat": 55.7341575,
+            "lon": 37.6302135
+        },
+        "address": "Russia, Moscow, Moscow",
+        "categories": [
+            "музей",
+            "бункер",
+            "достопримечательность",
+            "строение 1953 года",
+            "подземное сооружение"
+        ]
+    },
+    {
+        "id": "3289613",
+        "name": "Bunker, where Lavrentiy Beria was executed",
+        "coordinates": {
+            "lat": 55.7421753,
+            "lon": 37.6408144
+        },
+        "address": "Russia, Moscow, Moscow",
+        "categories": [
+            "bunker",
+            "invisible",
+            "underground facility",
+            "do not draw title"
+        ]
+    },
+    {
+        "id": "23542426",
+        "name": "Оголовок ствола № 1 ЗКП «Таганский» ГО-42 - вход в музей Холодной войны (ru)",
+        "coordinates": {
+            "lat": 55.7417338,
+            "lon": 37.649245
+        },
+        "address": "Нет данных",
+        "categories": []
+    },
+    {
+        "id": "43042897",
+        "name": "Поддомное бомбоубежище (ru)",
+        "coordinates": {
+            "lat": 55.7217143,
+            "lon": 37.6020678
+        },
+        "address": "Нет данных",
+        "categories": []
+    },
+    {
+        "id": "27995916",
+        "name": "Бомбоубежище (ru)",
+        "coordinates": {
+            "lat": 55.735355,
+            "lon": 37.6162946
+        },
+        "address": "Нет данных",
+        "categories": []
+    },
+    {
+        "id": "41355084",
+        "name": "Убежище гражданской обороны (ru)",
+        "coordinates": {
+            "lat": 55.7188201,
+            "lon": 37.6210642
+        },
+        "address": "Нет данных",
+        "categories": []
+    },
+    {
+        "id": "33364655",
+        "name": "Убежище гражданской обороны (ru)",
+        "coordinates": {
+            "lat": 55.7222491,
+            "lon": 37.6397394
+        },
+        "address": "Нет данных",
+        "categories": []
+    },
+    {
+        "id": "36726685",
+        "name": "Заброшенное защитное сооружение ГО (ru)",
+        "coordinates": {
+            "lat": 55.7134653,
+            "lon": 37.6413488
+        },
+        "address": "Нет данных",
+        "categories": []
+    }
+]
